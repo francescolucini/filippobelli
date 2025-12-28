@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.7.1//EN
+N:Belli;Filippo;;don;
+FN:don Filippo Belli
+item1.EMAIL;type=INTERNET;type=pref:sfcestello@gmail.com
+item1.X-ABLabel:Parrocchia
+item2.EMAIL;type=INTERNET:filbelli@gmail.com
+item2.X-ABLabel:Personale
+item3.TEL;type=pref:+39 055 215816
+item3.X-ABLabel:Parrocchia
+item4.TEL:+39 333 6651750
+item4.X-ABLabel:Personale
+END:VCARD
